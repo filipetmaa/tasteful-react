@@ -1,3 +1,4 @@
 import About from './about.component';
+import AboutContainer from './container';
 
-export default About;
+export default AboutContainer(About);
